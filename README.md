@@ -19,4 +19,10 @@ Stay tuned for upcoming features and improvements!
 
 
 
+  <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
