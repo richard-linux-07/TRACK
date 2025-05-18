@@ -1,4 +1,4 @@
-# TRACK
+![gif](https://github.com/richard-linux-07/TRACK/blob/main/NOTICE.gif)
 
 🚧 **This project is currently under maintenance.**  
 We are working hard to improve it and will be back soon with updates.
