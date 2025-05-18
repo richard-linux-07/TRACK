@@ -14,3 +14,9 @@ Stay tuned for upcoming features and improvements!
 ---
 
 📅 Last updated: May 2025
+
+---
+
+
+
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
